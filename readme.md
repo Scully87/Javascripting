@@ -1,9 +1,9 @@
 Javascripting
 --------------
 ####Technologies Used:
-  -Javascript
+  - Javascript
 
-  Javascript practice using the
+####Javascript practice using the
 [Node School](https://http://nodeschool.io/) tutorial.
 
 ####To do list :
@@ -16,8 +16,8 @@ Javascripting
   - [x] Numbers
   - [x] Rounding Numbers
   - [x] Number To String
-  - [ ] If Statement
-  - [ ] For Loop
+  - [x] If Statement
+  - [x] For Loop
   - [ ] Arrays
   - [ ] Array Filtering
   - [ ] Looping Through Arrays
