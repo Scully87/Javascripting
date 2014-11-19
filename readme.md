@@ -20,7 +20,7 @@ Javascripting
   - [x] For Loop
   - [x] Arrays
   - [x] Array Filtering
-  - [ ] Looping Through Arrays
+  - [x] Looping Through Arrays
   - [ ] Objects
   - [ ] Object Properties
   - [ ] Functions
