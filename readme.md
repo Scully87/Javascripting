@@ -24,4 +24,4 @@ Javascripting
   - [x] Objects
   - [x] Object Properties
   - [x] Functions
-  - [ ] Function Arguments
+  - [x] Function Arguments
