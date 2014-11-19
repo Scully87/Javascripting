@@ -18,7 +18,7 @@ Javascripting
   - [x] Number To String
   - [x] If Statement
   - [x] For Loop
-  - [ ] Arrays
+  - [x] Arrays
   - [ ] Array Filtering
   - [ ] Looping Through Arrays
   - [ ] Objects
