@@ -19,7 +19,7 @@ Javascripting
   - [x] If Statement
   - [x] For Loop
   - [x] Arrays
-  - [ ] Array Filtering
+  - [x] Array Filtering
   - [ ] Looping Through Arrays
   - [ ] Objects
   - [ ] Object Properties
