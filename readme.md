@@ -22,6 +22,6 @@ Javascripting
   - [x] Array Filtering
   - [x] Looping Through Arrays
   - [x] Objects
-  - [ ] Object Properties
+  - [x] Object Properties
   - [ ] Functions
   - [ ] Function Arguments
